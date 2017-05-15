@@ -8,5 +8,7 @@ WebDriver driver = new FirefoxDriver();
 driver.get("http://www.google.com");
 System.out.println(driver.getTitle());
 driver.quit();
+System.out.println("Hii It is done");
+System.out.println("Rehn de");
 }
 }
